@@ -1,0 +1,52 @@
+/* styles.css */
+.root {
+    -fx-font-family: 'Segoe UI', Arial, sans-serif;
+    -fx-font-size: 12px;
+    -fx-background-color: #f5f5f5;
+}
+
+.tree-view {
+    -fx-background-color: white;
+    -fx-border-color: #ddd;
+    -fx-border-radius: 3px;
+}
+
+.tree-cell {
+    -fx-padding: 4px 8px;
+}
+
+.tree-cell:selected {
+    -fx-background-color: #4a86e8;
+    -fx-text-fill: white;
+}
+
+.tree-cell.search-result {
+    -fx-background-color: #ffffa0;
+}
+
+.tree-cell.current-search-result {
+    -fx-background-color: #ffcc00;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 3px;
+    -fx-padding: 4px 8px;
+}
+
+.button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.text-field {
+    -fx-background-color: white;
+    -fx-border-color: #ccc;
+    -fx-border-radius: 3px;
+    -fx-padding: 5px;
+}
+
+.label {
+    -fx-padding: 5px;
+}
