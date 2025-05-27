@@ -1,10 +1,5 @@
 # QuickPeek
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Java](https://img.shields.io/badge/Java-17+-orange.svg)
-![JavaFX](https://img.shields.io/badge/JavaFX-17+-green.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
-
 A lightweight, production-ready desktop application for developers to quickly view and format JSON, XML, and Java object strings from clipboard with beautiful syntax highlighting and powerful search functionality.
 
 
